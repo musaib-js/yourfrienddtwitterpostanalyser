@@ -1,6 +1,7 @@
 # Depression, Stress and Anxiety Estimation Using AI
 
-This repository contains the code of Detecting Signs of Depression from Social Media Text using AI
+This repository contains the code of Detecting Signs of Depression from Social Media Text using AI. It is
+a part of our project - YourFriendd - An Online Depression, Stress and Anxiety Estimation cum Mental Health Consultation Platform. The actual project is still under development, the part of estimation stress using social media posts has been completed till date.
 
 ## Task description
 
